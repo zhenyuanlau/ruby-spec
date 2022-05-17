@@ -12,3 +12,9 @@ rspec --init
 ## Func
 
 Learning Ruby in a spec way.
+
+## Usage
+
+```bash
+rspec -fd
+```
