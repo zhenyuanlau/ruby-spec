@@ -11,3 +11,13 @@
 AllCops:
   SuggestExtensions: false
   NewCops: enable
+
+Metrics/MethodLength:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
+Lint/EmptyBlock:
+  Enabled: false
+Naming/MethodParameterName:
+  Enabled: false
+

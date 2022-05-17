@@ -9,3 +9,5 @@ source 'https://rubygems.org'
 gem 'rspec', require: false
 
 gem 'rubocop', require: false
+
+gem 'ruby-lsp', '~> 0.0.2', group: :development

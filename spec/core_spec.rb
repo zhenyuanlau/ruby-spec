@@ -10,7 +10,7 @@ RSpec.describe '核心库' do
   end
 
   context '集合' do
-    context '数组' do
+    context '★数组' do
     end
 
     context '字符串' do
@@ -19,7 +19,7 @@ RSpec.describe '核心库' do
     context '范围' do
     end
 
-    context '散列' do
+    context '★散列' do
     end
   end
 
@@ -43,7 +43,7 @@ RSpec.describe '核心库' do
   end
 
   context '工具' do
-    context '正则表达式' do
+    context '★正则表达式' do
     end
 
     context '时间' do
